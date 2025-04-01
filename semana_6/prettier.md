@@ -4,7 +4,7 @@ Prettier es una herramienta de formateo de código que garantiza un estilo consi
 
 ---
 
-## ✨ Características
+##  Características
 - Formatea automáticamente el código.
 - Compatible con JavaScript, TypeScript, JSON, HTML, CSS, Markdown y más.
 - Se integra con editores de texto como VS Code, WebStorm y Sublime Text.
@@ -12,7 +12,7 @@ Prettier es una herramienta de formateo de código que garantiza un estilo consi
 
 ---
 
-## 💻 Instalación
+##  Instalación
 Para instalar Prettier en un proyecto, usa npm o yarn:
 
 ### Con npm:
